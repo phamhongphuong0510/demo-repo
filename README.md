@@ -1,3 +1,3 @@
 # demo
 
-Happy Coding.
+Happy Coding!
